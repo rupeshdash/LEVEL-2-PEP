@@ -1,5 +1,5 @@
 import java.io.*;
-import java.util.*;
+
 
 public class permutation2 {
 
@@ -9,6 +9,7 @@ public class permutation2 {
        if(ssf==ts){
            System.out.println(asf);
        }
+       
        return;
    }
   
